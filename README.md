@@ -44,9 +44,22 @@ Clase 15/07/2021
 Clase 8/07/2021
 ----------------
 
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase08_07/montaje_1_Goku.jpg)
+
 Clase 26/06/2021
 ----------------
 
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase08_07/montaje_1_Goku.jpg)
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase26_06/Restauration_proof.jpg)
+
 Clase 24/07/2021
 ----------------
+
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase24_06/Fruit.jpg)
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase24_06/MyPresentation.jpg)
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase24_06/bear.jpg)
+
+Trabajos de Corel Draw
+----------------------
+
 
