@@ -9,8 +9,14 @@ Tareas del Curso de Diseño Grafico
 Montaje Proyecto Final
 ----------------------
 
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Montaje/JPG/proyecto_final_montaje.jpg)
+
 Clase 30/07/2021
 ----------------
+
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase30_07_2021/JPG/11a-ColorOjos.jpg)
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase30_07_2021/JPG/Persona%20Flotante.jpg)
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Photoshop/Clase30_07_2021/JPG/blanco%20y%20negro.jpg)
 
 Clase 29/07/2021
 ----------------
