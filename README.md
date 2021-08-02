@@ -6,6 +6,12 @@ Tareas del Curso de Diseño Grafico
 * Corel Draw
 * Photoshop
 
+Montaje Proyecto Final
+----------------------
+
+Clase 30/07/2021
+----------------
+
 Clase 29/07/2021
 ----------------
 
