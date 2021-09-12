@@ -10,7 +10,7 @@ Tareas del Curso de Diseño Grafico
 # Works in Adobe Ilustrator
 
 ```
-Comming Soon
+Coming Soon
 ```
 
 Montaje Proyecto Final
