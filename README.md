@@ -7,6 +7,13 @@ Tareas del Curso de Diseño Grafico
 * Photoshop
 * Ilustrator
 
+# Works in Adobe Ilustrator
+
+´´´
+Comming Soon
+
+´´´
+
 Montaje Proyecto Final
 ----------------------
 
