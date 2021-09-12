@@ -5,6 +5,7 @@ Tareas del Curso de Diseño Grafico
 
 * Corel Draw
 * Photoshop
+* Ilustrator
 
 Montaje Proyecto Final
 ----------------------
