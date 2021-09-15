@@ -7,6 +7,24 @@ Tareas del Curso de Diseño Grafico
 * Photoshop
 * Ilustrator
 
+# Adobe Ilustrator
+
+***Link de Descarga***
+
+```
+https://mega.nz/folder/qFx1DKBT
+```
+
+***Contraseña***
+
+```
+3QL3owRicaqD1jfBJqhllQ
+```
+
+# Notes
+
+This Link will be activated for two months
+
 # Works in Adobe Ilustrator
 
 ```
