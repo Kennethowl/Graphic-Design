@@ -5,7 +5,7 @@ Tareas del Curso de Diseño Grafico
 
 * Corel Draw
 * Photoshop
-* Ilustrator
+* Illustrator
 
 # Adobe Ilustrator
 
@@ -27,6 +27,13 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
+--- Cat Illutrator / Gato Ilustrador ---
+
+```
+Coming Soon
+```
+
+# Works for practice / Trabajos de Practica
 ```
 Coming Soon
 ```
