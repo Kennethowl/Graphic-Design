@@ -27,15 +27,54 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
---- Cat Illutrator / Gato Ilustrador ---
+Cat Illustrator / Gato Ilustrador
+---------------------------------
+
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Illustrator/JPG/Gato%20%5BRecuperado%5D.jpg)
+
+
+# About of / Acerca de
 
 ```
-Coming Soon
+Project about design of cat as practice in the course of Graphic Design in level two
+
+Tools used
+
+* Ellipse
+* Degraded
+* Rectangle
+* Tool Pencil
+* Tool Selection
+* Tool Direct Selection (A)
+```
+
+If you want to download this image, you can access in this link
+
+
+# File with Extension .AI
+
+```
+https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Illustrator/AI/Gato%20%5BRecuperado%5D.ai
+```
+
+# File with Extension .JPG
+
+```
+https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Illustrator/JPG/Gato%20%5BRecuperado%5D.jpg
 ```
 
 # Works for practice / Trabajos de Practica
+
+# Panda
+
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Illustrator/JPG/panda%202.jpg)
+
+# Logos
+
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Illustrator/JPG/Logos.jpg)
+
 ```
-Coming Soon
+Coming Soon more works
 ```
 
 Montaje Proyecto Final
