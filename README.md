@@ -67,7 +67,7 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 
 ## Panda Basico
 
-(![PandaBasico](https://user-images.githubusercontent.com/71115590/134068439-287a0ccb-da72-4a5c-b6dd-c13decda5e32.jpg)
+![PandaBasico](https://user-images.githubusercontent.com/71115590/134068439-287a0ccb-da72-4a5c-b6dd-c13decda5e32.jpg)
 
 ## Panda
 
