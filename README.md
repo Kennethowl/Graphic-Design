@@ -65,6 +65,10 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 
 # Works for practice / Trabajos de Practica
 
+## Logo Toyota
+
+![LogoToyota](https://user-images.githubusercontent.com/71115590/134095184-45937a3a-b720-40b1-826d-61a91ec40fc6.jpg)
+
 ## Panda Basico
 
 ![PandaBasico](https://user-images.githubusercontent.com/71115590/134068439-287a0ccb-da72-4a5c-b6dd-c13decda5e32.jpg)
