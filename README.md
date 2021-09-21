@@ -67,7 +67,7 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 
 ## Mapa Mental Ilustrador
 
-![Mapa Mental](https://user-images.githubusercontent.com/71115590/134242287-6e56ae97-43d6-44ac-afdb-319d8917e865.jpg)
+![Mapa Mental](https://github.com/Kennethowl/Graphic-Design/blob/main/Mapa%20Mental.jpg)
 
 A pedido de: **Katy Erazo**
 
