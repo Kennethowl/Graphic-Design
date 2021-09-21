@@ -65,6 +65,14 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 
 # Works for practice / Trabajos de Practica
 
+## Logo Adobe Illustrator
+
+![adobe](https://user-images.githubusercontent.com/71115590/134259804-05b5ce09-c0b3-4f17-b54c-00d27dccc46e.jpg)
+
+## Logo Univision
+
+![univision](https://user-images.githubusercontent.com/71115590/134259782-306a8f59-cf13-4de9-994c-325c96334b85.jpg)
+
 ## Logo Toyota
 
 ![LogoToyota](https://user-images.githubusercontent.com/71115590/134095184-45937a3a-b720-40b1-826d-61a91ec40fc6.jpg)
