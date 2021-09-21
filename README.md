@@ -65,12 +65,6 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 
 # Works for practice / Trabajos de Practica
 
-## Mapa Mental Ilustrador
-
-![Mapa Mental](https://github.com/Kennethowl/Graphic-Design/blob/main/Mapa%20Mental.jpg)
-
-A pedido de: **Katy Erazo**
-
 ## Logo Toyota
 
 ![LogoToyota](https://user-images.githubusercontent.com/71115590/134095184-45937a3a-b720-40b1-826d-61a91ec40fc6.jpg)
