@@ -65,6 +65,10 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 
 # Works for practice / Trabajos de Practica
 
+## Panda 
+
+![Panda-Clase_2](https://user-images.githubusercontent.com/71115590/134641086-8fd8d215-c16b-4a77-bb7e-fb52d62a59a1.jpg)
+
 ## Logo MasterCard
 
 ![MasterCard](https://user-images.githubusercontent.com/71115590/134265390-2daa3d5c-1c9c-4364-9bdd-4a573e938ed0.jpg)
