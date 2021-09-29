@@ -6,6 +6,7 @@ Tareas del Curso de Diseño Grafico
 * Corel Draw
 * Photoshop
 * Illustrator
+* Power Point
 
 # Adobe Ilustrator
 
