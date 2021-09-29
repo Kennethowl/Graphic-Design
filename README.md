@@ -62,6 +62,13 @@ https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Ill
 ```
 https://github.com/Kennethowl/Graphic-Design/blob/main/Dise%C3%B1o%20Grafico/Illustrator/JPG/Gato%20%5BRecuperado%5D.jpg
 ```
+# Practice with Infographics
+
+## Editores de Codigo
+
+Pequeña infografia acerca de los editores de codigo de la programación
+
+![Diapositiva1](https://user-images.githubusercontent.com/71115590/135234771-ba5775c6-2eaf-4ae1-a4e2-a85de1e4b54b.JPG)
 
 # Works for practice / Trabajos de Practica
 
