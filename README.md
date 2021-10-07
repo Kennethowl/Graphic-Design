@@ -73,6 +73,22 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Logo Monster
+
+![Logo Monster](https://user-images.githubusercontent.com/71115590/136330111-ba67a976-5b3c-468b-88c6-b64135011489.jpg)
+
+## Logo Adidas otro
+
+![Recurso 4-100](https://user-images.githubusercontent.com/71115590/136330183-d103a9aa-8832-48b4-992d-e0dc38fe1d59.jpg)
+
+## Logo Android
+
+![Recurso 2-100](https://user-images.githubusercontent.com/71115590/136330217-99875050-289b-414a-8e95-6a9d72cd46a7.jpg)
+
+## Logo Apple
+
+![Recurso 3-100](https://user-images.githubusercontent.com/71115590/136330224-befd7c02-0739-478d-8f91-8c5a8a1a591d.jpg)
+
 ## MasterCard Version 1.1
 
 ![MasterCard Ver1 2](https://user-images.githubusercontent.com/71115590/134831266-b394a66b-9dc3-46dd-ad28-50486045f58e.jpg)
