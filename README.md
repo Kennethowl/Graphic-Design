@@ -73,6 +73,14 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Logo Robot 1
+
+![dddd](https://user-images.githubusercontent.com/71115590/136618450-966878bc-f6e0-438e-8753-769d14553a89.jpg)
+
+## Logo Robot 2
+
+![Recurso 1-100](https://user-images.githubusercontent.com/71115590/136618480-be3a4a9f-9422-4609-b587-e134e286cadf.jpg)
+
 ## Logo Monster
 
 ![Logo Monster](https://user-images.githubusercontent.com/71115590/136330111-ba67a976-5b3c-468b-88c6-b64135011489.jpg)
