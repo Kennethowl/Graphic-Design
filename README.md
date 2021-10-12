@@ -73,6 +73,16 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Publicidad Cafe Topic Nocturne
+
+![Recurso 2-100](https://user-images.githubusercontent.com/71115590/136896799-9dd41423-61c0-44d6-b3ed-d4f9bd458c1c.jpg)
+
+## Publicidad Cafe Tematica Tranquila
+
+Correcion por hacer, color de fondo, hacer denotar las letras
+
+![Recurso 1-100](https://user-images.githubusercontent.com/71115590/136896884-ead7625a-4006-4043-a53f-b397e4d929a7.jpg)
+
 ## Logo Biodegradable
 
 ![Recurso 1-100](https://user-images.githubusercontent.com/71115590/136870217-64bcaea4-5f21-471f-ab7d-b56fdefbecd6.jpg)
