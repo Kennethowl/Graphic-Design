@@ -73,6 +73,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Logo Biodegradable
+
+![Recurso 1-100](https://user-images.githubusercontent.com/71115590/136870217-64bcaea4-5f21-471f-ab7d-b56fdefbecd6.jpg)
+
 ## Logo Robot 1
 
 ![dddd](https://user-images.githubusercontent.com/71115590/136618450-966878bc-f6e0-438e-8753-769d14553a89.jpg)
