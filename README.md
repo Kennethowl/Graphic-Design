@@ -73,6 +73,16 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Publicidad Coffee Bar
+
+### Verano
+
+![coffee bar](https://user-images.githubusercontent.com/71115590/137567958-b4e5f579-161f-4f0d-a423-732717813def.jpg)
+
+### Nocturne
+
+![coffee bar 2](https://user-images.githubusercontent.com/71115590/137567964-512871a2-2185-4817-94be-3641dd5f7d3e.jpg)
+
 ## Publicidad Cafe Topic Nocturne
 
 ![Recurso 2-100](https://user-images.githubusercontent.com/71115590/136896799-9dd41423-61c0-44d6-b3ed-d4f9bd458c1c.jpg)
