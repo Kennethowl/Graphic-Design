@@ -73,6 +73,20 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Logos Ferreteria
+
+### Logo 1
+
+![2](https://user-images.githubusercontent.com/71115590/138538301-b93ff2f4-4b9d-41af-b81d-a4adbe676607.jpg)
+
+### Logo 2
+
+![5](https://user-images.githubusercontent.com/71115590/138538308-84077830-0c1a-4657-b3b8-4cbdb1b85e69.jpg)
+
+## Ilustracion 
+
+![Ilustracion](https://user-images.githubusercontent.com/71115590/138538293-68090b67-1d34-4d77-b91f-fd106c466f70.jpg)
+
 ## Publicidad Coffee Bar
 
 ### Verano
