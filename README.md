@@ -73,6 +73,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Practice with tool Pen
+
+![robot con pluma](https://user-images.githubusercontent.com/71115590/139333196-0fca0e7d-0d8e-48aa-bc43-c349cce76822.jpg)
+
 ## Logos Ferreteria
 
 ### Logo 1
