@@ -73,6 +73,14 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 # Works for practice / Trabajos de Practica
 
+## Pirate
+
+![Recurso 1-8](https://user-images.githubusercontent.com/71115590/139516159-18353df7-d0c2-4c37-a890-bb87d81eacd6.png)
+
+## Homer
+
+![Recurso 1-100](https://user-images.githubusercontent.com/71115590/139516165-16874d16-e988-4f7c-ba70-d7a2e539d697.jpg)
+
 ## Practice with tool Pen
 
 ![robot con pluma](https://user-images.githubusercontent.com/71115590/139333196-0fca0e7d-0d8e-48aa-bc43-c349cce76822.jpg)
