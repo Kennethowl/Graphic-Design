@@ -71,6 +71,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 ![Diapositiva1](https://user-images.githubusercontent.com/71115590/135234771-ba5775c6-2eaf-4ae1-a4e2-a85de1e4b54b.JPG)
 
+## Mapa Mental en Ilustrador
+
+![image](https://github.com/Kennethowl/Graphic-Design/blob/main/Mapa%20Mental.jpg)
+
 # Works for practice / Trabajos de Practica
 
 ## Monkey D. Luffy
