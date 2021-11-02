@@ -107,6 +107,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 ![Logo MA corp](https://user-images.githubusercontent.com/71115590/139954284-44d5c6cb-d61e-41ac-aa95-fe88936cdced.jpg)
 
+## Logo Restaurante
+
+![Restaurante](https://user-images.githubusercontent.com/71115590/139963368-72989949-e710-49d1-8275-bda376dca997.jpg)
+
 ## Ilustracion 
 
 ![Ilustracion](https://user-images.githubusercontent.com/71115590/138538293-68090b67-1d34-4d77-b91f-fd106c466f70.jpg)
