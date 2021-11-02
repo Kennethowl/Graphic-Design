@@ -103,6 +103,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 ![5](https://user-images.githubusercontent.com/71115590/138538308-84077830-0c1a-4657-b3b8-4cbdb1b85e69.jpg)
 
+### Logo 3
+
+![Logo MA corp](https://user-images.githubusercontent.com/71115590/139954284-44d5c6cb-d61e-41ac-aa95-fe88936cdced.jpg)
+
 ## Ilustracion 
 
 ![Ilustracion](https://user-images.githubusercontent.com/71115590/138538293-68090b67-1d34-4d77-b91f-fd106c466f70.jpg)
