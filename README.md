@@ -81,6 +81,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 ![Luffy](https://user-images.githubusercontent.com/71115590/139623660-834d17d0-af52-42ac-9e83-4b21af928196.jpg)
 
+## Homero
+
+![Recurso 1@2x-100](https://user-images.githubusercontent.com/71115590/140197118-7b500620-0950-4681-83cf-0109f7b9954a.jpg)
+
 ## Pirate
 
 ![Recurso 1-8](https://user-images.githubusercontent.com/71115590/139516159-18353df7-d0c2-4c37-a890-bb87d81eacd6.png)
