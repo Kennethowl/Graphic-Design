@@ -97,6 +97,10 @@ Pequeña infografia acerca de los editores de codigo de la programación
 
 ![robot con pluma](https://user-images.githubusercontent.com/71115590/139333196-0fca0e7d-0d8e-48aa-bc43-c349cce76822.jpg)
 
+## Weird Cartoons
+
+![Pichi](https://user-images.githubusercontent.com/71115590/140255855-813c1729-2d80-4e7b-bd6d-ce7a6d89dd3f.jpg)
+
 ## Logos Ferreteria
 
 ### Logo 1
