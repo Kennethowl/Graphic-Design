@@ -28,6 +28,31 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
+## Proyecto Gato Slam Dunk
+
+Proyecto Final del Curso de Ilustrador
+
+![SlamDunk](https://user-images.githubusercontent.com/71115590/140622528-c6fa7ccc-b4ad-44f4-8edb-394d20449682.jpg)
+
+## Used Tools
+
+```
+Project about design of cat as practice in the course of Graphic Design in level two
+
+Tools used
+
+* Ellipse
+* Degraded
+* Rectangle
+* Tool Pencil
+* Tool Pen
+* Tool Pincel de Mancha
+* Live Trace
+* Hard Light
+* Expand
+* Photo low fidelity
+```
+
 Cat Illustrator / Gato Ilustrador
 ---------------------------------
 
