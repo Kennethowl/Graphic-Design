@@ -28,6 +28,20 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
+## Neon Title
+
+![Recurso 1hikari](https://user-images.githubusercontent.com/71115590/157806691-2f219dca-624e-42ec-8af8-00ccaeba004f.jpg)
+
+
+![title_dhcp](https://user-images.githubusercontent.com/71115590/157806698-5f44a52c-5ff2-462b-bb16-a84eef775bfe.jpg)
+
+## Titulo Cromado
+
+<img width="923" alt="Recurso 2@2x-8" src="https://user-images.githubusercontent.com/71115590/157806771-aa0af969-11ea-4570-9539-5a3b9e7a1106.png">
+
+
+Based in Projects of Rip Tools and Andrei Marius
+
 ## GameBoy
 
 Practica acerca de un proyecto de Gameboy
