@@ -28,6 +28,10 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
+## Infografía en Power Point
+
+![Diapositiva1](https://user-images.githubusercontent.com/71115590/163727784-ca083881-7ac2-41a3-94f1-1597ba6b2c31.JPG)
+
 ## Logo Space City
 
 <img width="459" alt="Recurso 1logo" src="https://user-images.githubusercontent.com/71115590/161444290-eef81ff8-daf4-404d-ac05-c296b8d6b7dc.png">
