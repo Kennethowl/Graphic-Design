@@ -48,7 +48,7 @@ This Link will be activated for two months
 
 ## Mom's Day Style
 
-<img width="1042" alt="Recurso 3estilo" src="https://user-images.githubusercontent.com/71115590/171546817-9be7240e-4ab5-4246-ae2f-cb78e196d077.png">
+![1](https://user-images.githubusercontent.com/71115590/171547092-f7d90a91-0d5f-4a53-b900-16871a1eb3c2.jpg)
 
 ## DERECHOS DE AUTOR, estos prototipos fueron realizados por mi, pero fue parte de mi trabajo para la empresa donde laboraba anteriormente
 
