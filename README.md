@@ -28,6 +28,30 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
+## Prototipos de Diseño en Empresa que labore
+
+## Retro Style
+
+<img width="841" alt="Recurso 1estiloretro" src="https://user-images.githubusercontent.com/71115590/171546183-e337c2d6-d14f-4bff-85ee-e7be74394f11.png">
+
+## Orange Style
+
+![Recurso 1publicidad](https://user-images.githubusercontent.com/71115590/171546249-6b5b3729-87ce-4b78-b9b5-e69bca3a145a.jpg)
+
+## Purple Style
+
+![Recurso 2publicidad](https://user-images.githubusercontent.com/71115590/171546270-d3fba206-7306-4447-971c-2d557d88d369.jpg)
+
+## Prices Style
+
+<img width="1042" alt="Recurso 3estilo" src="https://user-images.githubusercontent.com/71115590/171546366-e3206008-197c-4102-b089-f53e8d130c49.png">
+
+## Mom's Day Style
+
+<img width="1042" alt="Recurso 3estilo" src="https://user-images.githubusercontent.com/71115590/171546817-9be7240e-4ab5-4246-ae2f-cb78e196d077.png">
+
+## DERECHOS DE AUTOR, estos prototipos fueron realizados por mi, pero fue parte de mi trabajo para la empresa donde laboraba anteriormente
+
 ## Infografía en Power Point
 
 ![Diapositiva1](https://user-images.githubusercontent.com/71115590/163727784-ca083881-7ac2-41a3-94f1-1597ba6b2c31.JPG)
