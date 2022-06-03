@@ -28,6 +28,12 @@ This Link will be activated for two months
 
 # Works in Adobe Ilustrator
 
+## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
+
+## Techno Style
+
+<img width="742" alt="Recurso 1estilo" src="https://user-images.githubusercontent.com/71115590/171774379-df71975c-2e59-41f5-bff3-1bef436024c1.png">
+
 ## Prototipos de Diseño en Empresa que labore
 
 ## Retro Style
