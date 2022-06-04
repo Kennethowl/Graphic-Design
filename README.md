@@ -30,6 +30,10 @@ This Link will be activated for two months
 
 ## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
 
+## Coca Cola Style
+
+![Recurso 2estilo](https://user-images.githubusercontent.com/71115590/171983819-c1007b2e-a8fd-4cc2-818e-6273af0b527a.jpg)
+
 ## Techno Style
 
 <img width="742" alt="Recurso 1estilo" src="https://user-images.githubusercontent.com/71115590/171774379-df71975c-2e59-41f5-bff3-1bef436024c1.png">
