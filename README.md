@@ -30,6 +30,10 @@ This Link will be activated for two months
 
 ## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
 
+## Xiaomi Style
+
+![Recurso 4estilo](https://user-images.githubusercontent.com/71115590/173177088-fa94f887-f824-4c28-a55b-5a4bc4161d24.png)
+
 ## Coca Cola Style
 
 ![Recurso 2estilo](https://user-images.githubusercontent.com/71115590/171983819-c1007b2e-a8fd-4cc2-818e-6273af0b527a.jpg)
