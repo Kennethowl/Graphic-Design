@@ -30,6 +30,12 @@ This Link will be activated for two months
 
 ## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
 
+## PC Style
+
+![1](https://user-images.githubusercontent.com/71115590/177069465-fb40d154-bc09-4951-80fc-d0943db07f69.jpg)
+
+![2](https://user-images.githubusercontent.com/71115590/177069489-5c1f4228-cc29-4564-baeb-a319d3a3e19e.jpg)
+
 ## Catálogo
 
 ![0](https://user-images.githubusercontent.com/71115590/175794784-3a2ffbb5-3bf6-4f5d-8159-2fe79176f915.jpg)
