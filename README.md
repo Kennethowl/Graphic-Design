@@ -30,6 +30,10 @@ This Link will be activated for two months
 
 ## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
 
+## Pizza Style
+
+![Diseño](https://user-images.githubusercontent.com/71115590/179457330-22eb228d-4573-4720-8317-34e223f716ac.jpg)
+
 ## PC Style
 
 ![1](https://user-images.githubusercontent.com/71115590/177069465-fb40d154-bc09-4951-80fc-d0943db07f69.jpg)
