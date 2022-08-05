@@ -30,6 +30,10 @@ This Link will be activated for two months
 
 ## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
 
+## Frappe Style
+
+![Frappe_design](https://user-images.githubusercontent.com/71115590/183011786-7c2a3edf-3d5b-418e-8aed-1fdfba149b89.jpg)
+
 ## Pizza Style
 
 ![Diseño](https://user-images.githubusercontent.com/71115590/179457330-22eb228d-4573-4720-8317-34e223f716ac.jpg)
