@@ -30,6 +30,10 @@ This Link will be activated for two months
 
 ## Otros Prototipos, LOGOS DE EMPRESAS TOMADOS PARA PRACTICA, DERECHOS DE AUTOR
 
+## Panini Style
+
+![Flyer-de-Paninis](https://user-images.githubusercontent.com/71115590/194734704-1c33f7ef-5d9d-4ad5-973b-0ba0e5490665.jpg)
+
 ## Frappe Style
 
 ![Frappe_design](https://user-images.githubusercontent.com/71115590/183011786-7c2a3edf-3d5b-418e-8aed-1fdfba149b89.jpg)
